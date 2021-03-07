@@ -10,3 +10,5 @@ def fun(x):
             return "Fizz"
     elif x % 5 == 0:
         return "Buzz"
+    else:
+        return x
